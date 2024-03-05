@@ -1,0 +1,16 @@
+redux/toolkit
+
+"@reduxjs/toolkit": "^2.2.1",
+
+{
+  id: 1,
+  quantity: 5,
+  totalPrice: 25000,
+  orderDate: "03/03/2024",
+  useID: "KH1021",
+  productId: "MI-HH_2011_N",
+},
+
+    "react-redux": "^9.1.0",
+    "redux": "^5.0.1"
+        "@reduxjs/toolkit": "^2.2.1",

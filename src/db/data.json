@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": "",
+      "userName": "",
+      "email": "",
+      "password": "",
+      "fullName": "",
+      "address": "",
+      "phoneNumber": "",
+      "dateOfBirth": ""
+    }
+  ],
+  "product": [],
+  "order": [
+    {
+      "id": "1",
+      "quantity": "5",
+      "totalPrice": "",
+      "orderDate": "03/03/2024",
+      "useID": "KH1021",
+      "productId": "SP2011N"
+    }
+  ]
+}
